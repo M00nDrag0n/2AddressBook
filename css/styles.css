@@ -1,0 +1,51 @@
+body {
+  font-family: 'Spectral';
+  font-size: 30px;
+  text-align: center;
+}
+
+
+#input {
+  text-align: left;
+}
+.column {
+  float: left;
+  width: 50%;
+}
+
+
+
+#q5 {
+  margin-left: 20px;
+}
+
+#q5-1 {
+  margin-left: 56px;
+}
+
+button {
+  margin-left: 950px;
+  margin-top: 50px;
+}
+
+button:hover {
+  background-color: #85e7ff;
+  color: #110d59;
+  border-style: solid;
+  border-width: 10px;
+  border-top-color: #175dff;
+  border-bottom-color: #1a023b;
+  border-left-color: #010d78;
+  border-right-color: #010d78;
+}
+
+button:active {
+  color: #b30018;
+  background-color: #4e018c;
+  border-right-color: #5300b3;
+}
+
+
+#output {
+
+}
