@@ -4,6 +4,16 @@ body {
   text-align: center;
 }
 
+body:hover {
+  background-color: #4e018c;
+  color: #b30018;
+  border-style: solid;
+  border-width: 50px;
+  border-top-color: #175dff;
+  border-bottom-color: #1a023b;
+  border-left-color: #010d78;
+  border-right-color: #5300b3;
+}
 
 #input {
   text-align: left;
@@ -47,5 +57,7 @@ button:active {
 
 
 #output {
-
+  height: 500px;
+  width; 50%;
+  float: left;
 }
