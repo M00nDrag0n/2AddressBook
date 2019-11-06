@@ -22,6 +22,8 @@ var blisterBeetle = new Bugs("insect", "shelled wings", "medium antennae",  "med
 var longhornBeetle = new Bugs("insect", "shelled wings", "long antennae", "large", "black and white", "6 legs");
 var cellarSpider = new Bugs("arachnid", "no wings", "no antennae", "small", "brown and grey", "8 legs");
 var barkScorpion = new Bugs("arachnid", "no wings", "no antennae", "medium", "pale brown and yellow", "8 legs");
+var dustMite = new Bugs("arachnid", "no wings", "no antennae", "microscopic", "pale grey", "8 legs");
+
 // in console, if you type the name of the variable (in this case leafhopper), add .(insert after "this" like so: leafhopper.color), it will return "green".
 // Ex: blisterBeetle.legAmount
 // --> 6
